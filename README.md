@@ -10,5 +10,5 @@
 * __Form__<br>
 * __useNavigate()__<br>
 * __Toastify__<br>
-* __Local Storage__<br>
-<div align="center"><img src="https://github.com/MehmetCakir1/taskTrackerWithReact/blob/master/newtestTracker.gif">
+* __Bootstrap5__<br>
+<div align="center"><img src="">
